@@ -1,7 +1,7 @@
 {
- # "name": "Izumi-v3",
+  "name": "Izumi-v3",
   "description": "Izumi a Multi Device WhatsApp bot",
-  "": #"https://i.imgur.com/Hgiamot.jpeg",
+  "logo": "https://i.imgur.com/Hgiamot.jpeg",
   "keywords": ["whatsapp"],
   "repository": "https://github.com/sataniceypz/Izumi-v3",
   "website": "https://eypz-izumi.vercel.app",
